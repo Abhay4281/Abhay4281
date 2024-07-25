@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhay Tiwari</h1>
 <h3 align="center">Empowering Android Experiences through Code</h3>
 
-- 🌱 I’m currently learning **jetpack compose for android , flutter for cross platform apps etc**
+- 🌱 I’m currently learning ** different and new techniques in mobile app development**
 
-- 💬 Ask me about **Kotlin , android , xml, DSA and c++**
+- 💬 Ask me about **Dart, flutter, c++**
 
 - 📫 How to reach me **abhayworkk@gmail.com**
 
